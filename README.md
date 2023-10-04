@@ -1,7 +1,3 @@
-# 💫 About Me:
-😎 I am Software Engineer with passion for Science  <br>🌱 I’m currently learning ASP.NET Core 6.0 and React<br>🔭 I’m currently working on Management system (Django framework)<br>📫Shoot me an Email or add me on LinkedIn :)
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/stefanjokic99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_jokitsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefan-jokić-77935b243) 
 
